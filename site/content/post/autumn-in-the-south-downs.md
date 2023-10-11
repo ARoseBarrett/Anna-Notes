@@ -15,6 +15,8 @@ Hostels and Bed and Breakfasts booked (a surprisingly easy and relatively cheap 
 
 ![](img/riddle-and-finns.jpeg)
 
+*A romantic, candle-lit setting.*
+
 **Day One - YHA Truleigh Hill to Alfriston (via Devil's Dyke)**
 
 ![](img/day-1-start.jpeg)
