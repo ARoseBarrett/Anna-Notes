@@ -19,6 +19,8 @@ Hostels and Bed and Breakfasts booked (a surprisingly easy and relatively cheap 
 
 ![](img/day-1-start.jpeg)
 
+After enjoying a pot of instant porridge and some spectacular views from the hostel kitchen, we set off bright and early, hitting the trail by eight o'clock, and enjoying the best of a clear, albeit unusually warm, October morning.
+
 **Day Two - Alfriston to Lewes (via Cows!)**
 
 ![](img/day-2-cow-field.jpeg)
