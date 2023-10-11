@@ -13,10 +13,12 @@ Opting to finish our walk at Eastbourne, and enjoy sea views on our approach to 
 
 **Day One - YHA Truleigh Hill to Alfriston (via Devil's Dyke)**
 
+![](img/day-1-start.jpeg)
 
+**Day Two - Alfriston to Lewes (via Cows!)**
 
-**Day Two - Alfriston to Lewes**
-
-
+![](img/day-2-cow-field.jpeg)
 
 **Day Three - Lewes to Eastbourne (via Seven Sisters)**
+
+![](img/day-3-coastlines.jpeg)
