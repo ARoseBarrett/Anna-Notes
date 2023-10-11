@@ -1,10 +1,13 @@
 ---
 title: Make Time
 date: 2023-09-09T14:14:41.633Z
-description: " "
+description: " After reading it at the beginning of the year, Charlie
+  recommended Make Time to me as I begun my period of self-enforced unemployment
+  in September, suggesting that as he had found some of its reflections useful,
+  I might also find the techniques helpful in structuring my new schedule. "
 image: img/make-time.jpg
 ---
-After reading it at the beginning of the year, Charlie recommended Make Time to me as I begun my period of self-enforced unemployment in September, suggesting that as he had found some of its reflections useful, I might also find the techniques helpful in structuring my new schedule. Indeed, Creators of Google Ventures' design sprint and co-authors of Make Time, Jake Knapp and John Zeratsky posit within this short book a four-step daily framework "that anyone can use to systematically design their days around things that matter" (Knapp and Zeratsky, 2018:p.3). Featuring 87 techniques which readers are invited to try out, reflect upon, and scrap or keep, Knapp and Zeratsky present that; "This is a book about slowing down the crazy rush. It's about making time for things that matter. Make time is not about productivity (...) Instead, it's a framework designed to help you actually create more time in your day for the things you care about..." (ibid:p.10). Worth the read, then. 
+Indeed, Creators of Google Ventures' design sprint and co-authors of Make Time, Jake Knapp and John Zeratsky posit within this short book a four-step daily framework "that anyone can use to systematically design their days around things that matter" (Knapp and Zeratsky, 2018:p.3). Featuring 87 techniques which readers are invited to try out, reflect upon, and scrap or keep, Knapp and Zeratsky present that; "This is a book about slowing down the crazy rush. It's about making time for things that matter. Make time is not about productivity (...) Instead, it's a framework designed to help you actually create more time in your day for the things you care about..." (ibid:p.10). Worth the read, then. 
 
 From the first pages, the tone and structure of the book makes for a good-humoured, easy going read, with the addition of humble illustrations adding a further element of warmth. While ostensibly suggesting nothing overwhelmingly 'ground breaking' (indeed, Knapp and Zeratsky do not claim the featured techniques to be anything extraordinary), the ideas in the book are actually rather more useful; through encouraging simple, seemingly obvious techniques such as deleting social media apps off your phone, or logging out of twitter to make it harder to mindlessly scroll, one becomes suddenly more aware of how often one is using those apps. If we are so clued-up on how damaging and time consuming this mindless scrolling is, why are we still doing it? Through calling out the behaviour and suggesting simple, quick fixes, Knapp and Zeratsky make the reader more accountable for their own time wasting behaviours, while simultaneously providing a safe, non-judgemental space for reflection- we've all been there, right?
 
