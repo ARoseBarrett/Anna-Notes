@@ -2,9 +2,9 @@
 title: "Autumn in the South Downs "
 date: 2023-10-11T09:56:37.060Z
 description: "After receiving a message from a close university friend that they
-  had some unexpected time off the following week, I soon found myself taking a
-  break from my job search, and planning a three day walking adventure in the
-  South Downs. "
+  had some unexpected time off in the first week of October, I found myself
+  taking a break from my job search, and planning a three day walking adventure
+  in the South Downs. "
 image: img/day-1-rolling-hills.jpeg
 ---
 Having spent a large majority of my walking adventures in the Lake District, exploring the hills of Blencathra and Helvellyn, and enjoying melt-in-the-mouth spiced gingerbread in Grasmere, I had somewhat neglected the rolling beauty of the South Downs until last week. So too had I failed to realise the ease at which they are accessed from London; just a little over  an hour and a half on the train from London Bridge gets you to Eastbourne, the end point of the South Downs trail starting in Winchester. Thus, when my friend outlined the parameters for our adventures - three days of walking somewhere easily accessible, 'good for the soul', and relatively easy going (us both being new to multiple-day hiking with all our gear) - the South Down National Park was a clear winner.
@@ -25,7 +25,7 @@ After enjoying a pot of instant porridge and some spectacular views from the hos
 
 ![](img/screenshot-35-.png)
 
-Our first day of walking was a rolling 25km, taking us past the infamous natural beauty spot, the Devil's Dyke. Featuring stunning panoramic views of the surrounding countryside, the dyke - a highlight of the South Downs trail - is the deepest longest dry dyke in the UK, and indeed, much mystery surrounds this impressive spot. Legend reports that the dyke was dug by the Devil in order to drown the Christian settlers in the Weald, and maintains that if you venture to the bottom of the dyke and run backwards seven times around the two humps at the bottom, the Devil himself will be summoned. Regrettably, we did not find time within our itinerary to test if this was true. 
+Our first day of walking was a 'softly undulating' 25km, taking us past the infamous natural beauty spot, the Devil's Dyke. Featuring stunning panoramic views of the surrounding countryside, the dyke - a highlight of the South Downs trail - is the deepest longest dry dyke in the UK, and indeed, much mystery surrounds this impressive spot. Legend reports that the dyke was dug by the Devil in order to drown the Christian settlers in the Weald, and maintains that if you venture to the bottom of the dyke and run backwards seven times around the two humps at the bottom, the Devil himself will be summoned. Regrettably, we did not find time within our itinerary to test if this was true. 
 
 
 
