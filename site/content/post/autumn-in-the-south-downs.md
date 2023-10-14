@@ -37,7 +37,11 @@ We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watc
 
 ![](img/day-2-cow-field.jpeg)
 
-There was a definite theme to our second day of walking, and that was: cows. As someone who grew up on horror stories of human-crushing cows, and was surrounded by family members each with their own terrible tale, I am, to put it lightly, 'not the biggest fan'. However, the route we took from Alfriston in the morning (which deviated from the South Downs trail, taking us along the river Ouse before rejoining the path at the next YHA hostel) involved walking through a bull field, and then *right through* a cluster of milk cows. I am unashamed to say some serious hand holding was needed, but I overcame (at least for the day) some of my cow prejudices. Indeed, throughout the day there were several instances where crossing through cow fields was unavoidable, and for the most part, it seems that they are completely unbothered by passing wanderers, being used to the summertime South Downs traffic.
+There was a definite theme to our second day of walking, and that was: cows. As someone who grew up on horror stories of human-crushing cows, and was surrounded by family members each with their own terrible tale, I am, to put it lightly, 'not the biggest fan'. However, the route we took from Alfriston in the morning (which deviated from the South Downs trail, taking us along the river Ouse before re-joining the path at the next YHA hostel) involved walking through a bull field, and then *right through* a cluster of milk cows. I am unashamed to say some serious hand holding was needed, but I overcame (at least for the day) some of my cow prejudices. Indeed, throughout the day there were several instances where crossing through cow fields was unavoidable, and for the most part, it seems that they are completely unbothered by passing wanderers, being used to the summertime South Downs traffic.
+
+![](img/screenshot-36-.png)
+
+Day two was a gentle 20km, with this shorter distance allowing us time in the morning to visit the Owl Flint Bakery, (a small, independent bakehouse with a Nordic feel, and delicious pastries and coffee). Fuelled by almond croissants, 
 
 **Day Three - Alfriston to Eastbourne (via Seven Sisters)**
 
