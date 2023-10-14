@@ -25,6 +25,8 @@ After enjoying a pot of instant porridge and some spectacular views from the hos
 
 ![](img/screenshot-35-.png)
 
+Our first day of walking was a rolling 25km, taking us past the infamous natural beauty spot, the Devil's Dyke. Featuring stunning panoramic views of the surrounding countryside, the dyke - a highlight of the South Downs trail - 
+
 **Day Two - Alfriston to Lewes (via Cows!)**
 
 ![](img/day-2-cow-field.jpeg)
