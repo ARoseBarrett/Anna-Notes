@@ -27,7 +27,7 @@ After enjoying a pot of instant porridge and some spectacular views from the hos
 
 Our first day of walking was a 'softly undulating' 25km, taking us past the infamous natural beauty spot, the Devil's Dyke. Featuring stunning panoramic views of the surrounding countryside, the dyke - a highlight of the South Downs trail - is the deepest and longest dry dyke in the UK, and indeed, much mystery surrounds this impressive spot. Legend reports that the dyke was dug by the Devil in order to drown the Christian settlers in the Weald, and maintains that if you venture to the bottom of the dyke and run backwards seven times around the two humps at the bottom, the Devil himself will be summoned. Regrettably, we did not find time within our itinerary to test if this was true. 
 
-Shortly after passing the dyke, we came across a local rambling group, who warned of 'hills ahead' in-between friendly greetings and encouraging smiles. Our (limited) uphill efforts were rewarded with more far reaching views of the Downs, and our first glimpse of the South East coast. We also stumbled across a horse cart, now converted into a mobile cafe, 
+Shortly after passing the dyke, we came across a local rambling group, who warned of 'hills ahead' in-between friendly greetings and encouraging smiles. Our (limited) uphill efforts were rewarded with more far reaching views of the Downs, and our first glimpse of the South East coast. We also stumbled across a horse cart, now converted into a mobile café, and enjoyed a much appreciated cup of tea in the most scenic, ambient setting. Unexpected cuppas are often the best, and this was no less true on a sunny Tuesday morning.
 
 **Day Two - Alfriston to Lewes (via Cows!)**
 
