@@ -29,6 +29,10 @@ Our first day of walking was a 'softly undulating' 25km, taking us past the infa
 
 Shortly after passing the dyke, we came across a local rambling group, who warned of 'hills ahead' in-between friendly greetings and encouraging smiles. Our (limited) uphill efforts were rewarded with more far reaching views of the Downs, and our first glimpse of the South East coast. We also stumbled across a horse cart, now converted into a mobile café, and enjoyed a much appreciated cup of tea in the most scenic, ambient setting. Unexpected cuppas are often the best, and this was no less true on a sunny Tuesday morning.
 
+![](img/day-1-lunch-spot.jpeg)
+
+We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watching sky larks dance above the shallows, and sheltering from the sun under a weather worn tree. We then continued, beginning the long and gradual ascent into the Lewes (and passing Black Cap along the way). We arrived at The Dorset, our home for the night,  a little after 5pm, and after a cup of tea and a quick shower, heading out for noodles and a couple of games of pool.
+
 **Day Two - Alfriston to Lewes (via Cows!)**
 
 ![](img/day-2-cow-field.jpeg)
