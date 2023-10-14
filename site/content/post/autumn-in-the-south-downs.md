@@ -33,10 +33,12 @@ Shortly after passing the dyke, we came across a local rambling group, who warne
 
 We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watching sky larks dance above the shallows, and sheltering from the sun under a weather worn tree. We then continued, beginning the long and gradual ascent into the Lewes (and passing Black Cap along the way). We arrived at The Dorset, our home for the night,  a little after 5pm, and after a cup of tea and a quick shower, heading out for noodles and a couple of games of pool.
 
-**Day Two - Alfriston to Lewes (via Cows!)**
+**Day Two - Lewes to Alfriston (via Cows!)**
 
 ![](img/day-2-cow-field.jpeg)
 
-**Day Three - Lewes to Eastbourne (via Seven Sisters)**
+There was a definite theme to our second day of walking, and that was: cows. As someone who grew up on horror stories of human-crushing cows and surrounded by family members each with their own terrible tale, I am, to put it lightly, not the biggest fan. However, the route we took from Alfriston in the morning (which 
+
+**Day Three - Alfriston to Eastbourne (via Seven Sisters)**
 
 ![](img/day-3-coastlines.jpeg)
