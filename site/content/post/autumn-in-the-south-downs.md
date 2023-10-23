@@ -49,4 +49,4 @@ After stopping for lunch at another breath taking view, we found ourselves very 
 
 ![](img/day-3-coastlines.jpeg)
 
-The highlight of our final day was to be walking along the Seven Sisters, which I had enjoyed before, and Katherine was excited to experience. Weather still miraculously fair, we set off mid morning after a delicious breakfast of poached eggs and muffins (a Nutella sachet also commandeered by myself as compensation for the disrupted night's sleep we had experienced that night, being moved rooms in the early hours due to a noisy party directly below our original one)
+On our final day we were to hike along the Seven Sisters, which Katherine was excited to experience, having heard great things from her parents (and not to be outdone!). Weather still miraculously fair, we set off mid morning after a delicious breakfast of poached eggs and muffins (a Nutella sachet also commandeered by myself as compensation for the disrupted night's sleep we had experienced that night, being moved rooms in the early hours due to a noisy party directly below our original one)
