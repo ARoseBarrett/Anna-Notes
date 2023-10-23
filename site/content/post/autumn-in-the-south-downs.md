@@ -15,8 +15,6 @@ Hostels and Bed and Breakfasts booked (a surprisingly easy and relatively cheap 
 
 ![](img/riddle-and-finns.jpeg)
 
-
-
 **Day One - YHA Truleigh Hill to Alfriston (via Devil's Dyke)**
 
 ![](img/day-1-start.jpeg)
@@ -37,11 +35,11 @@ We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watc
 
 ![](img/day-2-cow-field.jpeg)
 
-There was a definite theme to our second day of walking, and that was: cows. As someone who grew up on horror stories of human-crushing cows, and was surrounded by family members each with their own terrible tale, I am, to put it lightly, 'not the biggest fan'. However, the route we took from Alfriston in the morning (which deviated from the South Downs trail, taking us along the river Ouse before re-joining the path at the next YHA hostel) involved walking through a bull field, and then *right through* a cluster of milk cows. I am unashamed to say some serious hand holding was needed, but I overcame (at least for the day) some of my cow prejudices. Indeed, throughout the day there were several instances where crossing through cow fields was unavoidable, and for the most part, it seems that they are completely unbothered by passing wanderers, being used to the summertime South Downs traffic.
+There was a definite theme to our second day of walking, and that was: cows. As someone who grew up on horror stories of human-crushing cows, and surrounded by family members each with their own terrible tale, I am, to put it lightly, 'not the biggest fan'. However, the route we took from Alfriston in the morning (which deviated from the South Downs trail, taking us along the river Ouse before re-joining the path at the next YHA hostel) involved walking through a bull field, and then *right through* a cluster of milk cows. I am unashamed to say some serious hand holding was needed, but I overcame (at least for the day) some of my cow prejudices. Indeed, throughout the day there were several instances where crossing through cow fields was unavoidable, and for the most part, it seems that they are completely unbothered by passing wanderers, being used to the summertime South Downs traffic.
 
 ![](img/screenshot-36-.png)
 
-Day two was a gentle 20km, with this shorter distance allowing us time in the morning to visit the Owl Flint Bakery, (a small, independent bakehouse with a Nordic feel, and delicious pastries and coffee). Fuelled by almond croissants, 
+Cows aside, day two was a gentle 20km, with this shorter distance allowing us time in the morning to visit the Owl Flint Bakery, (a small, independent bakehouse with a Nordic feel, and delicious pastries and coffee). Fuelled by almond croissants, we enjoyed a flat start today, before returning, with a gentle ascent, to the South Downs trail proper. We were treated throughout the day to panoramic views of the surrounding countryside and the coast as we drew nearer to Alfriston, for the most part having the path to ourselves (again, save for a few cows). When we did come across a fellow trail walker- or cyclist, as was often the case- part of the magic of the path was the total dissolving of usual boundaries; in the city, strangers are to be, at best, ignored, whereas in the country, people take time to stop and chat, sharing their stories and love for the trail. 
 
 **Day Three - Alfriston to Eastbourne (via Seven Sisters)**
 
