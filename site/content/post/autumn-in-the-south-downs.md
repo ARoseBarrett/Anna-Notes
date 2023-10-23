@@ -39,7 +39,7 @@ There was a definite theme to our second day of walking, and that was: cows. As 
 
 ![](img/screenshot-36-.png)
 
-Cows aside, day two was a gentle 20km, with this shorter distance allowing us time in the morning to visit the Owl Flint Bakery, (a small, independent bakehouse with a Nordic feel, and delicious pastries and coffee). Fuelled by almond croissants, we enjoyed a flat start today, before returning, with a gentle ascent, to the South Downs trail proper. We were treated throughout the day to panoramic views of the surrounding countryside and the coast as we drew nearer to Alfriston, for the most part having the path to ourselves (again, save for a few cows). When we did come across a fellow trail walker- or cyclist, as was often the case- part of the magic of the path was the total dissolving of unnatural, yet normal, social boundaries. In London, strangers are to be, at best, ignored, and if one is to stop and smile - or god forbid, start up a conversation - they are sadly in a minority (and often treated with caution). On the trail, the reverse is true - and how wonderful it is to chat to strangers, sharing stories and bound by a mutual love of exploring the beaten path. 
+Cows aside, day two was a gentle 20km, with this shorter distance allowing us time in the morning to visit the Owl Flint Bakery, (a small, independent bakehouse with a Nordic feel, and delicious pastries and coffee). Fuelled by almond croissants, we enjoyed a flat start, before returning, with a gentle ascent, to the South Downs trail proper. We were treated throughout the day to panoramic views of the surrounding countryside and the coast as we drew nearer to Alfriston, for the most part having the path to ourselves (again, save for a few cows). When we did come across a fellow trail walker- or cyclist, as was often the case- part of the magic of the path was the total dissolving of unnatural, yet normal, social boundaries. In London, strangers are to be, at best, ignored, and if one is to stop and smile - or god forbid, start up a conversation - they are sadly in a minority (and often treated with caution). On the trail, the reverse is true - and how wonderful it is to chat to strangers, sharing stories and bound by a mutual love of exploring the beaten path. 
 
 
 
@@ -49,4 +49,10 @@ After stopping for lunch at another breath taking view, we found ourselves very 
 
 ![](img/day-3-coastlines.jpeg)
 
-On our final day we were to hike along the Seven Sisters, which Katherine was excited to experience, having heard great things from her parents (and not to be outdone!). Weather still miraculously fair, we set off mid morning after a delicious breakfast of poached eggs and muffins (a Nutella sachet also commandeered by myself as compensation for the disrupted night's sleep we had experienced that night, being moved rooms in the early hours due to a noisy party directly below our original one)
+On our final day we were to hike along the Seven Sisters, which Katherine was excited to experience, having heard great things from her parents (and not to be outdone!). Weather still miraculously fair, we set off mid morning after a delicious breakfast of poached eggs and muffins (a Nutella sachet also commandeered by myself as compensation for the disrupted night's sleep we had experienced that night, being moved rooms in the early hours due to a noisy party directly below our original one). 
+
+Stopping for a cup of tea once we had reached the Seven Sisters visitor's centre, Katherine and I soon became aware of a growing buzz of people arriving. As we set off towards the cliffs, we found ourselves in the throng of a charity walk- and what a wonderful amount of people had turned up! As we weaved through the crowds, we found ourselves speaking to one of the volunteers from Mountain Rescue, and his experience running his first ultramarathon (a feat that seems to be growing in popularity!). 
+
+
+
+As we arrived at the first 'sister', we found the group broke up on the up hills, and the path immediately felt less crowded.
