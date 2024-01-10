@@ -3,7 +3,7 @@ title: Home
 subtitle: Homepage for Anna Notes
 image: img/website.jpg
 blurb:
-  heading: Browse below for books, bants, and bangerzzzzz
+  heading: "W e l c o m e "
   text: I will update this later
 intro:
   heading: vv
