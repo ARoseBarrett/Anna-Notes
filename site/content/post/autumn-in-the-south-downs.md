@@ -29,7 +29,7 @@ Shortly after passing the dyke, we came across a local rambling group, who warne
 
 ![](img/day-1-lunch-spot.jpeg)
 
-We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watching sky larks dance above the shallows, and sheltering from the sun under a weather worn tree. We then continued, beginning the long and gradual ascent into the Lewes (and passing Black Cap along the way). We arrived at The Dorset, our home for the night,  a little after 5pm, and after a cup of tea and a quick shower, heading out for noodles and a couple of games of pool.
+We enjoyed a  late lunch of bread a cheese at a quiet spot by a small pond, watching sky larks dance above the shallows, and sheltering from the sun under a weather worn tree. We then continued, beginning the long and gradual ascent into the Lewes (and passing Black Cap along the way). We arrived at The Dorset, our home for the night, a little after 5pm, and after a cup of tea and a quick shower, headed out for noodles and a couple of games of pool.
 
 **Day Two - Lewes to Alfriston (via Cows!)**
 
