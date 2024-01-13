@@ -1,6 +1,10 @@
 {{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
-
+<div class="flex justify-between grey-3">
+  <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+</div>
+<div class="cms">
+  <p>{{ .Description }}</p>
+  {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+  {{ .Content }}
+</div>
 {{ end }}
