@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+  <head>
+    <title>{{ .Title }} | {{ $.Site.Title }}</title>
+
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
+    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ end }}
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <base href="{{ $.Site.BaseURL }}">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#ff4400">
+    <meta name="theme-color" content="#fff">
+
+    <!-- Open Graph Hugo https://gohugo.io/templates/internal/#open-graph -->
+    {{ template "_internal/opengraph.html" . }}
+
+    {{ if .IsHome }}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{ end }}
+
+    <link re="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css" integrity="sha512-d0v474klOFSF7qD9WDvyRxAvXaWSxCHDZdnBSZQjo8BpVr6vpjwAgqetpqkKP38DzlOzdVPaLVnzzW1Ba8wB9w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="sans-serif">
+
+    <nav data-nav class="flex justify-between center mw8 bb br bl b--silver">
+
+      <a href="/" class="pa3 db mr4 h-100 flex-none">
+        Anna Notes
+      </a>
+
+      <div class="flex b grey-3 nav-menu">
+        <a href="/post" class="pa3 no-underline db">Blog</a>
+        <a href="/contact" class="pa3 no-underline db">Contact</a>
+      </div>
+
+    </nav>
+
+    <div class="center mw7">
+      <h1>{{ .Title }}</h1>
+
+      {{ block "main" . }}{{ end }}
+    </div>
+
+  </body>
+</html>

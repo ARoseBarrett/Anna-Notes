@@ -1,0 +1,11 @@
+baseurl: /
+languageCode: en-gb
+languageLang: en
+title: Anna Notes
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+params:
+  images:
+    - img/og-image.jpg
