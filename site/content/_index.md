@@ -4,7 +4,7 @@ subtitle: Homepage for Anna Notes
 image: img/website.jpg
 blurb:
   heading: "W e l c o m e "
-  text: I will update this later
+  text: I will update this later on
 intro:
   heading: vv
   text: vv
