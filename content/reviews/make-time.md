@@ -1,11 +1,8 @@
 ---
 title: Make Time
 date: 2023-09-09T14:14:41.633Z
-description: " After reading it at the beginning of the year, Charlie
-  recommended Make Time to me as I begun my period of self-enforced unemployment
-  in September, suggesting that as he had found some of its reflections useful,
-  I might also find the techniques helpful in structuring my new schedule. "
-image: img/make-time.jpg
+description: ' After reading it at the beginning of the year, Charlie recommended Make Time to me, suggesting that as he had found some of its reflections useful, I might also find the techniques informative when structuring my new schedule. '
+image: /img/make-time.jpg
 ---
 Indeed, Creators of Google Ventures' design sprint and co-authors of Make Time, Jake Knapp and John Zeratsky posit within this short book a four-step daily framework "that anyone can use to systematically design their days around things that matter" (Knapp and Zeratsky, 2018:p.3). Featuring 87 techniques which readers are invited to try out, reflect upon, and scrap or keep, Knapp and Zeratsky present that; "This is a book about slowing down the crazy rush. It's about making time for things that matter. Make time is not about productivity (...) Instead, it's a framework designed to help you actually create more time in your day for the things you care about..." (ibid:p.10). Worth the read, then. 
 
@@ -13,7 +10,7 @@ From the first pages, the tone and structure of the book makes for a good-humour
 
 One of the ideas in the book which I found most pertinent was that of 'defaults'; for example, the default that work meetings run to the half hour or hour, regardless of whether the content of said meeting requires that exact amount of time (it rarely does). This was applied in a very literal sense as well to the devices we spend our lives on, which by default barrage us constantly with notifications and tempting home-screen 'Infinity Pool' apps. Indeed, this concept of 'Infinity Pools' (any kind of app or media which acts as a continuous source of refreshable, constantly accessible information) and the additional idea of the 'Busy Bandwagon' (the pressure to be constantly busy, constantly accessible, and constantly consuming and creating content) was yet another example of how the book, through naming the obvious, makes it easier to spot these problematic habits in our daily lives. After reading, I find myself much more self aware of 'Infinity Pools', and, for example, and how truly draining they are in every sense, not just in relation to time. Make Time has also encouraged me to be more reflective of how I feel after the activity of scrolling mindlessly for 10 minutes through. If the purpose of the activity isn't clear, and it doesn't spark joy, then why do it?
 
-![](img/framework.png "The Four Step Framework (Knapp and Zeratsky, 2018).")
+![](/img/framework.png "The Four Step Framework (Knapp and Zeratsky, 2018).")
 
 *The Four Step Framework (Knapp and Zeratsky, 2018).*
 
