@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<div class="flex flex-wrap justify-between">
+  {{ range .Pages.ByPublishDate.Reverse }}
+      <div class="w-third pa1 pa2-ns">
+        <div class="aspect-ratio aspect-ratio--1x1">
+          <a href="{{ .RelPermalink }}"
+             style="background-image: url({{ .Params.image }}); background-repeat: no-repeat; background-position: center;"
+             class="aspect-ratio--object contain">
+          </a>
+        </div>
+      </div>
+  {{ end }}
+</div>
+
+{{end}}

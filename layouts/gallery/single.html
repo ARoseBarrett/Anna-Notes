@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="flex justify-between grey-3">
+  <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+</div>
+<div class="cms">
+  {{ if .Params.image }}
+  <img src="{{ .Params.image }}" class="gallery-image" alt="{{ .Title }}" />
+  {{ end }}
+  {{ .Content }}
+</div>
+{{ end }}

@@ -1,0 +1,5 @@
+.gallery-image {
+    max-height: 70vh;
+    display: block;
+    margin: 0 auto;
+}
