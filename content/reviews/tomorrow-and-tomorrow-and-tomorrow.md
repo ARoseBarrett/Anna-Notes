@@ -7,6 +7,6 @@ description: >-
   trials and tribulations of growing up. 
 image: /img/tandtandt.jpg
 ---
-'Tomorrow, and Tomorrow, and Tomorrow' is unlike any other story I have ever read, and I utterly devoured it. While Zevin's cross-decade storyline is reminiscent of David Nicholl's 'One Day' and John Boyne's 'The Heart's Invisible Furies' (books which I, unsurprisingly, also adored), the backdrop to Sam and Sadie's tale is quite unique. 
+'Tomorrow, and Tomorrow, and Tomorrow' is unlike any other story I have ever read, and I utterly devoured it. While Zevin's cross-decade storyline is reminiscent of David Nicholl's 'One Day' and John Boyne's 'The Heart's Invisible Furies' (books which I, unsurprisingly, also adored), the backdrop to Sam and Sadie's tale is quite unique. Spanning from the early 1980s over a period of thirty years, 
 
-It's the 1980s. 
+Upon researching Zevin's background, I was quite surprised to find she didn't have any direct experience in video game development, so detailed and intimate where her descriptions of video game development (and its notorious crunch time). The familiarity and intimacy of her descriptions of this ... Blood, Sweat, and Pixels...
