@@ -11,4 +11,3 @@ image: /img/tandtandt.jpg
 
 Upon researching Zevin's background, I was quite surprised to find she didn't have any direct experience in video game development, so detailed and intimate are her descriptions of this. Indeed, at points in the book, her writing reminded me strongly of the recounts featured in Jason Schreier's 'Blood, Sweat, and Pixels', a non-fiction tell-all of the nitty gritty of game development and crunch time. That this book appears in her extensive reference section makes sense. 
 
-To say I loved the book is not to say that there were not elements of the storyline and characters I questioned.
