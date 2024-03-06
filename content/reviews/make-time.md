@@ -3,6 +3,7 @@ title: Make Time
 date: 2023-09-09T14:14:41.633Z
 description: ' After reading it at the beginning of the year, Charlie recommended Make Time to me, suggesting that as he had found some of its reflections useful, I might also find the techniques informative when structuring my new schedule. '
 image: /img/make-time.jpg
+author: Jake Knapp and John Zeratsky
 ---
 Indeed, Creators of Google Ventures' design sprint and co-authors of Make Time, Jake Knapp and John Zeratsky posit within this short book a four-step daily framework "that anyone can use to systematically design their days around things that matter" (Knapp and Zeratsky, 2018:p.3). Featuring 87 techniques which readers are invited to try out, reflect upon, and scrap or keep, Knapp and Zeratsky present that; "This is a book about slowing down the crazy rush. It's about making time for things that matter. Make time is not about productivity (...) Instead, it's a framework designed to help you actually create more time in your day for the things you care about..." (ibid:p.10). Worth the read, then. 
 

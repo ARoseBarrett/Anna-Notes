@@ -5,7 +5,8 @@ description: >-
   Gabrielle Zevin weaves nighties video game nostalgia within a coming of age
   story as we follow Sam and Sadie, two childhood friends, navigating the trials
   and tribulations of growing up. 
-image: /img/tandtandt.jpg
+image: /img/tandtandt.jpg 
+author: Gabrielle Zevin
 ---
 'Tomorrow, and Tomorrow, and Tomorrow' is unlike any other story I have ever read, and I utterly devoured it. While Zevin's cross-decade storyline is reminiscent of David Nicholl's 'One Day' and John Boyne's 'The Heart's Invisible Furies' (books which I also adored in their separate ways), the backdrop to Sam and Sadie's tale is quite unique. Spanning from the early 1980s over a period of thirty years, 'Tomorrow, and Tomorrow, and Tomorrow' is a story about coming-of-age, both for human beings, and for the video game industry. The references to various games interweaved throughout this story- both real and made up- creates a common point of reference for the reader, and a warm undertone of nostalgia. 
 
